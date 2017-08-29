@@ -1,1 +1,7 @@
-.idea
+.idea/*
+facial_expression/.ipynb_checkpoints/
+facial_expression/__pycache__/
+facial_expression/data/fer2013/
+facial_expression/data/test.pickle
+facial_expression/data/train.pickle
+
